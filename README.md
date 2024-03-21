@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **paraschavre77@gmail.com**
 
-- 📄 Know about my experiences [www.linkedin.com/in/paras-chavre-72620a154](www.linkedin.com/in/paras-chavre-72620a154)
+- 📄 Know about my experiences [https://www.linkedin.com/in/paras-chavre-72620a154](www.linkedin.com/in/paras-chavre-72620a154)
 
 - ⚡ Fun fact **In 1997, an IBM computer named "Deep Blue" made history by defeating the reigning world chess champion, Garry Kasparov, in a six-game match. This event was a significant milestone in the history of artificial intelligence and marked the first time a computer defeated a reigning world chess champion in a standard chess match. Deep Blue's victory showcased the potential of AI in complex problem-solving and strategic thinking, and it remains a memorable moment in the development of AI technology.**
 
